@@ -1,0 +1,1 @@
+mean_interarrival_time = 1.0, mean_service_time = 1.0, num_custs = 1000

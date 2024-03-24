@@ -1,0 +1,10 @@
+Total customer uses this server 
+1000
+Average delay in queue minutes  
+14.09
+Average number in queue  
+13.96
+Server utilization  
+0.98
+Time simulation ended 
+1009
